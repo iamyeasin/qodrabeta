@@ -9,7 +9,7 @@ SECRET_KEY = 'fsch+6!=q+@ol&%0x!nwdl@48^ixbd4clx5f1i!5n^66y+pmn*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['220.158.204.63','127.0.0.1','192.168.0.102','qodra.herokuapp.com']
+ALLOWED_HOSTS = ['220.158.204.63','127.0.0.1','192.168.0.102','qodrabeta.herokuapp.com/','*']
 
 
 # Application definition
