@@ -202,11 +202,9 @@ input[type="text"]
     width: 70% !important;
 }
 .mask{
-    /*background-image: url({% static '../img/MaskGroup4.png' %});*/
     height: 764px;
     background-size: 74% 100%;
     background-repeat: no-repeat;
-  /*background-origin: padding-box;*/
     margin-top: 50px;
     padding-right: 50px;
 }
